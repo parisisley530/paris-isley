@@ -1,0 +1,53 @@
+
+
+.image-container1 {
+  display: flex; /* Use flexbox to align images horizontally */
+  justify-content: space-between; /* Distribute space evenly between images */
+  align-items: center; /* Center images vertically */
+}
+
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+.image-container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  max-width: 25%; /* Adjust the width of each image as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+.robot {
+    display: flex;
+    align-items: left;
+}
+
+.toby {
+    padding: 5px;
+}
+
+.robotpic {
+    max-width: 300px;
+    margin-right:10px;
+}
+
+.universal {
+    display: flex;
+    align-items: right;
+}
+
+.universalp {
+    padding: 5px;
+}
+.universalpic {
+    max-width: 300px;
+    align-items: right;
+}

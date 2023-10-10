@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+}
+
+img {
+max-width: 25%
+}
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+h2 {
+    color: red;
+}
